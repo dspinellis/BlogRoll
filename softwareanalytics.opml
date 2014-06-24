@@ -11,5 +11,11 @@
 	<outline text="Research Aggregators">
 		<outline text="Never Work in Theory"  type="link" url="http://neverworkintheory.org/feed.xml"/>
 	</outline>
+	<outline text="Software Analytics Researchers">
+			<outline text="Patrick Wagstrom"  type="link" url="http://patrick.wagstrom.net/weblog/feeds/rss.xml"/>
+			<outline text="Chris Parnin" type="link" url="http://blog.ninlabs.com/"/>
+			<outline text="Abram Hindle" type="link" url="http://softwareprocess.es/blog/atom.xml"/>
+			<outline text="Felienne" type="link" url="http://www.felienne.com/feed"/>
+	</outline>
 </body>
 </opml>
