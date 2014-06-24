@@ -7,11 +7,11 @@ This repo contains a OPML file that lists a bunch of Software Data Analytics and
 
 We want you to be able to follow accessible posts from the Software Analytics Community.
 
-- Abrm
-- Lineardo
-- Patrick
-- Michael
-- G
-- Meiyappan
-- Emad
+- Abram Hindle
+- Leandro L. Minku
+- Patrick Wagstrom
+- Michael Godfrey 
+- Stegan Wagner
+- Meiyappan Nagappan 
+- Emad Shihab
 
