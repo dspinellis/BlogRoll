@@ -11,7 +11,7 @@ We want you to be able to follow accessible posts from the Software Analytics Co
 - Lineardo
 - Patrick
 - Michael
-- 
+- G
 - Meiyappan
 - Emad
 
