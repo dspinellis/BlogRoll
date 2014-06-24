@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Software Analtyics Blogroll</title>
+		<dateCreated>Tue Jun 24 14:53:30 CEST 2014</dateCreated>
+		<ownerName>The Community</ownerName>
+		<ownerEmail>unknown</ownerEmail>
+		<link>https://raw.githubusercontent.com/SoftwareDataAnalyticsCommunity/BlogRoll/master/softwareanalytics.opml</link>
+	</head>
+<body>
+	<outline text="Research Aggregators">
+		<outline text="Never Work in Theory"  type="link" url="http://neverworkintheory.org/feed.xml"/>
+	</outline>
+</body>
+</opml>
