@@ -7,6 +7,16 @@ This repo contains a OPML file that lists a bunch of Software Data Analytics and
 
 We want you to be able to follow accessible posts from the Software Analytics Community.
 
+How to Contributor!
+===================
+
+Give us a pull request!
+
+Contributors
+=============
+
+
+
 - Abram Hindle
 - Leandro L. Minku
 - Patrick Wagstrom
